@@ -1,0 +1,9 @@
+{
+  "name": "record-it",
+  "version": "1.0.0",
+  "description": "music recording software",
+  "main": "index.js",
+  "repository": "https://github.com/dakarweare/Record-it.git",
+  "author": "dakarweare <stapleboi93@gmail.com>",
+  "license": "MIT"
+}
